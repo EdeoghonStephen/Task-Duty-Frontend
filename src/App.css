@@ -1,0 +1,15 @@
+#root {
+  text-align: center;
+}
+
+.text-purple {
+  color: #974fd0;
+}
+
+.bg-purple {
+  background-color: #974fd0 !important;
+}
+
+form label {
+  top: -11px;
+}
